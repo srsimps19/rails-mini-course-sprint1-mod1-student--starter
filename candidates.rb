@@ -1,3 +1,6 @@
+#Step One - Data Setup
+
+
 jane = {
     first_name: "Jane",
     last_name: "Doe",
@@ -32,3 +35,6 @@ jason = {
 }
 
 candidates = [jane, sara, jason]
+
+
+
